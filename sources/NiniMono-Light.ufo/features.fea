@@ -5,7 +5,7 @@ languagesystem latn dflt;
 @CombTopCase = [gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case ringcomb.case hungarumlautcomb.case caroncomb.case];
 @Upper = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis Yacute Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Itilde Imacron Ibreve Iogonek Idotaccent Jcircumflex uni0136 Lacute uni013B Lcaron Nacute uni0145 Ncaron Omacron Obreve Ohungarumlaut Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Tcommaaccent Wgrave Wacute Wdieresis Ygrave uni01CD Gcaron uni01E8 uni021E uni01D3 uni1EBC Oslashacute uni01EE AE OE Oslash Dcroat Eth Hbar Tbar Lslash Ldot Germandbls Thorn Eng IJ uni01B7 uni01E4];
 
-@CombBelow = [commaaccentcomb cedillacomb ogonekcomb];
+@CombBelow = [commaaccentcomb cedillacomb ogonekcomb macronbelowcomb];
 
 # i j and į lose their dots under a mark above (marks below may come between); capitals take the flatter capital marks.
 lookup ccmp_dotless {

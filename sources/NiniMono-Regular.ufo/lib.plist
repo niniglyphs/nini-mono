@@ -30,6 +30,7 @@
 		<string>commaaccentcomb</string>
 		<string>cedillacomb</string>
 		<string>ogonekcomb</string>
+		<string>macronbelowcomb</string>
 		<string>space</string>
 		<string>a</string>
 		<string>b</string>
@@ -366,6 +367,7 @@
 		<string>uni01E4</string>
 		<string>uni01E5</string>
 		<string>uni02BB</string>
+		<string>uni02BC</string>
 		<string>cent</string>
 		<string>sterling</string>
 		<string>yen</string>
@@ -639,6 +641,8 @@
 		<key>cedillacomb</key>
 		<string>mark</string>
 		<key>ogonekcomb</key>
+		<string>mark</string>
+		<key>macronbelowcomb</key>
 		<string>mark</string>
 		<key>space</key>
 		<string>base</string>
@@ -1311,6 +1315,8 @@
 		<key>uni01E5</key>
 		<string>base</string>
 		<key>uni02BB</key>
+		<string>base</string>
+		<key>uni02BC</key>
 		<string>base</string>
 		<key>cent</key>
 		<string>base</string>
