@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="576"/>
+  <unicode hex="0134"/>
+  <anchor x="408" y="953" name="top"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="233" y="0" name="cedilla"/>
+  <anchor x="276" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="368" y="233" type="line"/>
+      <point x="368" y="140"/>
+      <point x="338" y="68"/>
+      <point x="234" y="68" type="curve" smooth="yes"/>
+      <point x="128" y="68"/>
+      <point x="98" y="139"/>
+      <point x="98" y="233" type="curve"/>
+      <point x="18" y="233" type="line"/>
+      <point x="18" y="229" type="line"/>
+      <point x="18" y="92"/>
+      <point x="86" y="-10"/>
+      <point x="234" y="-10" type="curve" smooth="yes"/>
+      <point x="384" y="-10"/>
+      <point x="448" y="95"/>
+      <point x="448" y="233" type="curve"/>
+      <point x="448" y="704" type="line"/>
+      <point x="368" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="902" type="line"/>
+      <point x="282" y="755" type="line"/>
+      <point x="373" y="755" type="line"/>
+      <point x="408" y="820" type="line"/>
+      <point x="444" y="755" type="line"/>
+      <point x="535" y="755" type="line"/>
+      <point x="454" y="902" type="line"/>
+    </contour>
+  </outline>
+</glyph>

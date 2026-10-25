@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="2">
+  <advance width="576"/>
+  <unicode hex="00C5"/>
+  <anchor x="288" y="1022" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="0" name="cedilla"/>
+  <anchor x="478" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="247" y="704" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="195" y="208" type="line"/>
+      <point x="381" y="208" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="329" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="285" type="line"/>
+      <point x="288" y="551" type="line"/>
+      <point x="360" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="863" type="curve" smooth="yes"/>
+      <point x="400" y="935"/>
+      <point x="358" y="971"/>
+      <point x="288" y="971" type="curve" smooth="yes"/>
+      <point x="218" y="971"/>
+      <point x="176" y="935"/>
+      <point x="176" y="863" type="curve" smooth="yes"/>
+      <point x="176" y="791"/>
+      <point x="218" y="755"/>
+      <point x="288" y="755" type="curve" smooth="yes"/>
+      <point x="358" y="755"/>
+      <point x="400" y="791"/>
+    </contour>
+    <contour>
+      <point x="320" y="863" type="curve" smooth="yes"/>
+      <point x="320" y="843"/>
+      <point x="304" y="832"/>
+      <point x="288" y="832" type="curve" smooth="yes"/>
+      <point x="272" y="832"/>
+      <point x="256" y="843"/>
+      <point x="256" y="863" type="curve" smooth="yes"/>
+      <point x="256" y="884"/>
+      <point x="272" y="894"/>
+      <point x="288" y="894" type="curve" smooth="yes"/>
+      <point x="304" y="894"/>
+      <point x="320" y="884"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="2">
+  <advance width="576"/>
+  <unicode hex="0165"/>
+  <anchor x="254" y="806" name="top"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="341" y="0" name="cedilla"/>
+  <anchor x="367" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="223" y="454" type="line"/>
+      <point x="223" y="139" type="line"/>
+      <point x="223" y="64"/>
+      <point x="254" y="-10"/>
+      <point x="341" y="-10" type="curve" smooth="yes"/>
+      <point x="428" y="-10"/>
+      <point x="459" y="63"/>
+      <point x="459" y="139" type="curve"/>
+      <point x="399" y="139" type="line"/>
+      <point x="399" y="98"/>
+      <point x="391" y="49"/>
+      <point x="341" y="49" type="curve" smooth="yes"/>
+      <point x="290" y="49"/>
+      <point x="283" y="99"/>
+      <point x="283" y="139" type="curve"/>
+      <point x="283" y="454" type="line"/>
+      <point x="457" y="454" type="line"/>
+      <point x="457" y="512" type="line"/>
+      <point x="283" y="512" type="line"/>
+      <point x="283" y="632" type="line"/>
+      <point x="223" y="632" type="line"/>
+      <point x="223" y="512" type="line"/>
+      <point x="48" y="512" type="line"/>
+      <point x="48" y="454" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="768" type="line"/>
+      <point x="324" y="602" type="line"/>
+      <point x="385" y="602" type="line"/>
+      <point x="420" y="768" type="line"/>
+    </contour>
+  </outline>
+</glyph>

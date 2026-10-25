@@ -1,0 +1,29 @@
+name: Build and check
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+      - name: Install the tools
+        run: pip install -r requirements.txt
+      - name: Build the fonts
+        run: cd sources && gftools builder config.yaml
+      - name: Install fontspector
+        run: |
+          curl -sSL -o fontspector.tar.gz https://github.com/fonttools/fontspector/releases/download/fontspector-v1.9.0/fontspector-1.9.0-x86_64-unknown-linux-gnu.tar.gz
+          mkdir -p "$HOME/bin" && tar -xzf fontspector.tar.gz -C "$HOME/bin" --strip-components=1 && rm fontspector.tar.gz
+          echo "$HOME/bin" >> "$GITHUB_PATH"
+      # The directory check applies to the google/fonts layout (ofl/<family>/), not to this repository.
+      - name: Check them as Google Fonts does
+        run: fontspector --profile googlefonts -x googlefonts/repo/dirname_matches_nameid_1 --ghmarkdown fontspector-report.md fonts/ttf/*.ttf
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: fonts
+          path: |
+            fonts
+            fontspector-report.md

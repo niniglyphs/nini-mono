@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="2">
+  <advance width="576"/>
+  <unicode hex="02C6"/>
+  <anchor x="288" y="582" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="0" name="cedilla"/>
+  <anchor x="288" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="172" y="582" type="line"/>
+      <point x="240" y="582" type="line"/>
+      <point x="288" y="668" type="line"/>
+      <point x="336" y="582" type="line"/>
+      <point x="404" y="582" type="line"/>
+      <point x="322" y="730" type="line"/>
+      <point x="254" y="730" type="line"/>
+    </contour>
+  </outline>
+</glyph>

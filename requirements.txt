@@ -1,0 +1,11 @@
+# The tools that build and check the fonts, pinned so builds repeat (Google Fonts asks for this).
+fontmake==3.12.2
+ufo2ft==3.9.1
+fonttools[ufo,lxml,unicode]==4.65.0
+ufoLib2==0.19.1
+skia-pathops==0.9.2
+gftools==0.10.4
+ttfautohint-py==0.6.1
+uharfbuzz==0.56.3
+resvg-cli==0.44.0
+pillow==12.3.0

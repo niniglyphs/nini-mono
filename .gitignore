@@ -1,0 +1,11 @@
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+fontspector-report.md
+sources/instance_ufo/
+sources/master_ufo/
+sources/build.ninja
+sources/.ninja_log

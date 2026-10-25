@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="576"/>
+  <unicode hex="0126"/>
+  <anchor x="288" y="767" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="0" name="cedilla"/>
+  <anchor x="458" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="178" y="509" type="line"/>
+      <point x="398" y="509" type="line"/>
+      <point x="398" y="426" type="line"/>
+      <point x="178" y="426" type="line"/>
+    </contour>
+    <contour>
+      <point x="58" y="625" type="line"/>
+      <point x="39" y="625" type="line"/>
+      <point x="39" y="509" type="line"/>
+      <point x="58" y="509" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="310" type="line"/>
+      <point x="398" y="310" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="518" y="509" type="line"/>
+      <point x="537" y="509" type="line"/>
+      <point x="537" y="625" type="line"/>
+      <point x="518" y="625" type="line"/>
+      <point x="518" y="704" type="line"/>
+      <point x="398" y="704" type="line"/>
+      <point x="398" y="625" type="line"/>
+      <point x="178" y="625" type="line"/>
+      <point x="178" y="704" type="line"/>
+      <point x="58" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

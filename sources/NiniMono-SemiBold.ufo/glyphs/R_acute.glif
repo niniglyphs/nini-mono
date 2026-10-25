@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="2">
+  <advance width="576"/>
+  <unicode hex="0154"/>
+  <anchor x="297" y="937" name="top"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="297" y="0" name="cedilla"/>
+  <anchor x="493" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="149" y="289" type="line"/>
+      <point x="366" y="290" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="460" y="323" type="line"/>
+      <point x="515" y="364"/>
+      <point x="531" y="432"/>
+      <point x="531" y="497" type="curve" smooth="yes"/>
+      <point x="531" y="612"/>
+      <point x="476" y="704"/>
+      <point x="350" y="704" type="curve"/>
+      <point x="49" y="704" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="386" type="line"/>
+      <point x="149" y="607" type="line"/>
+      <point x="350" y="607" type="line"/>
+      <point x="418" y="607"/>
+      <point x="431" y="555"/>
+      <point x="431" y="497" type="curve" smooth="yes"/>
+      <point x="431" y="438"/>
+      <point x="418" y="386"/>
+      <point x="350" y="386" type="curve"/>
+    </contour>
+    <contour>
+      <point x="285" y="886" type="line"/>
+      <point x="203" y="761" type="line"/>
+      <point x="310" y="761" type="line"/>
+      <point x="391" y="886" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="2">
+  <advance width="576"/>
+  <unicode hex="00C8"/>
+  <anchor x="314" y="921" name="top"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="314" y="0" name="cedilla"/>
+  <anchor x="515" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="83" y="704" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="58" type="line"/>
+      <point x="143" y="58" type="line"/>
+      <point x="143" y="339" type="line"/>
+      <point x="531" y="339" type="line"/>
+      <point x="531" y="397" type="line"/>
+      <point x="143" y="397" type="line"/>
+      <point x="143" y="646" type="line"/>
+      <point x="545" y="646" type="line"/>
+      <point x="545" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="870" type="line"/>
+      <point x="316" y="755" type="line"/>
+      <point x="387" y="755" type="line"/>
+      <point x="312" y="870" type="line"/>
+    </contour>
+  </outline>
+</glyph>

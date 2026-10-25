@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="2">
+  <advance width="576"/>
+  <unicode hex="0174"/>
+  <anchor x="288" y="964" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="0" name="cedilla"/>
+  <anchor x="410" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="552" y="704" type="line"/>
+      <point x="458" y="704" type="line"/>
+      <point x="396" y="248" type="line"/>
+      <point x="288" y="687" type="line"/>
+      <point x="180" y="248" type="line"/>
+      <point x="118" y="704" type="line"/>
+      <point x="24" y="704" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="288" y="298" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="456" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="759" type="line"/>
+      <point x="245" y="759" type="line"/>
+      <point x="288" y="827" type="line"/>
+      <point x="331" y="759" type="line"/>
+      <point x="441" y="759" type="line"/>
+      <point x="343" y="913" type="line"/>
+      <point x="233" y="913" type="line"/>
+    </contour>
+  </outline>
+</glyph>

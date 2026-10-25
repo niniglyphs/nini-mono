@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+  <advance width="576"/>
+  <unicode hex="0141"/>
+  <anchor x="301" y="755" name="top"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <anchor x="330" y="0" name="cedilla"/>
+  <anchor x="489" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="131" y="258" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="78" type="line"/>
+      <point x="211" y="78" type="line"/>
+      <point x="211" y="307" type="line"/>
+      <point x="269" y="343" type="line"/>
+      <point x="269" y="435" type="line"/>
+      <point x="211" y="400" type="line"/>
+      <point x="211" y="704" type="line"/>
+      <point x="131" y="704" type="line"/>
+      <point x="131" y="350" type="line"/>
+      <point x="74" y="314" type="line"/>
+      <point x="74" y="222" type="line"/>
+    </contour>
+  </outline>
+</glyph>
