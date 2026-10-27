@@ -11,7 +11,7 @@ Letters move part of the way towards an even width, as monospaced faces' do, whi
 
 - Google Fonts Latin Core: Latin-1, Latin Extended-A, Romanian (Ș ș Ț ț), Welsh (Ẁ Ẃ Ẅ Ỳ), the capital sharp s (ẞ), and
   common punctuation, currency, maths and arrow symbols.
-- Combining marks (U+0300–U+030C, U+0326–U+0328, U+0331) with `mark`/`mkmk` positioning; capitals take flatter capital marks
+- Combining marks (U+0300–U+0304, U+0306–U+0308, U+030A–U+030C, U+0326–U+0328, U+0331) with `mark`/`mkmk` positioning; capitals take flatter capital marks
   and i, j and į lose their dots under a mark above (`ccmp`).
 - Box drawing (U+2500–257F), block elements (U+2580–259F) and Powerline symbols (U+E0A0, E0A2, E0B0–E0B3), drawn to the cell so they join.
 - Statically hinted TrueType (ttfautohint), plus WOFF2 for the web.

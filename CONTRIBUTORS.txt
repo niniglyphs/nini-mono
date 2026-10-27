@@ -5,4 +5,4 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Sayantan Roy
+Sayantan Roy <hello@niniglyphs.com>
