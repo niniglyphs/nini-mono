@@ -5,19 +5,19 @@
   <anchor x="288" y="582" name="top"/>
   <anchor x="288" y="0" name="bottom"/>
   <anchor x="288" y="0" name="cedilla"/>
-  <anchor x="447" y="0" name="ogonek"/>
+  <anchor x="455" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="89" y="512" type="line"/>
-      <point x="89" y="434" type="line"/>
-      <point x="398" y="434" type="line"/>
-      <point x="89" y="97" type="line"/>
-      <point x="89" y="0" type="line"/>
-      <point x="487" y="0" type="line"/>
-      <point x="487" y="78" type="line"/>
-      <point x="178" y="78" type="line"/>
-      <point x="487" y="415" type="line"/>
-      <point x="487" y="512" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="495" y="0" type="line"/>
+      <point x="495" y="78" type="line"/>
+      <point x="168" y="78" type="line"/>
+      <point x="495" y="446" type="line"/>
+      <point x="495" y="544" type="line"/>
+      <point x="81" y="544" type="line"/>
+      <point x="81" y="466" type="line"/>
+      <point x="408" y="466" type="line"/>
+      <point x="81" y="98" type="line"/>
     </contour>
   </outline>
 </glyph>

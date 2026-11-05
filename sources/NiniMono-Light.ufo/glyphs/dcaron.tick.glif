@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron.tick" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="470" y="602" type="line"/>
+      <point x="531" y="602" type="line"/>
+      <point x="566" y="768" type="line"/>
+      <point x="505" y="768" type="line"/>
+    </contour>
+  </outline>
+</glyph>

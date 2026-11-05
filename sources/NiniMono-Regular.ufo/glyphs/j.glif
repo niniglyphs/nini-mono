@@ -2,13 +2,13 @@
 <glyph name="j" format="2">
   <advance width="576"/>
   <unicode hex="006A"/>
-  <anchor x="308" y="582" name="top"/>
-  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="292" y="582" name="top"/>
+  <anchor x="292" y="0" name="bottom"/>
   <anchor x="374" y="0" name="cedilla"/>
   <anchor x="374" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="334" y="434" type="line"/>
+      <point x="334" y="466" type="line"/>
       <point x="334" y="-57" type="line"/>
       <point x="334" y="-92"/>
       <point x="327" y="-124"/>
@@ -24,23 +24,23 @@
       <point x="374" y="-202"/>
       <point x="414" y="-138"/>
       <point x="414" y="-57" type="curve"/>
-      <point x="414" y="512" type="line"/>
-      <point x="202" y="512" type="line"/>
-      <point x="202" y="434" type="line"/>
+      <point x="414" y="544" type="line"/>
+      <point x="170" y="544" type="line"/>
+      <point x="170" y="466" type="line"/>
     </contour>
     <contour>
-      <point x="438" y="640" type="curve" smooth="yes"/>
-      <point x="438" y="675"/>
-      <point x="409" y="704"/>
-      <point x="374" y="704" type="curve" smooth="yes"/>
-      <point x="340" y="704"/>
-      <point x="310" y="675"/>
-      <point x="310" y="640" type="curve" smooth="yes"/>
-      <point x="310" y="605"/>
-      <point x="340" y="576"/>
-      <point x="374" y="576" type="curve" smooth="yes"/>
-      <point x="409" y="576"/>
-      <point x="438" y="605"/>
+      <point x="438" y="672" type="curve" smooth="yes"/>
+      <point x="438" y="707"/>
+      <point x="409" y="736"/>
+      <point x="374" y="736" type="curve" smooth="yes"/>
+      <point x="340" y="736"/>
+      <point x="310" y="707"/>
+      <point x="310" y="672" type="curve" smooth="yes"/>
+      <point x="310" y="637"/>
+      <point x="340" y="608"/>
+      <point x="374" y="608" type="curve" smooth="yes"/>
+      <point x="409" y="608"/>
+      <point x="438" y="637"/>
     </contour>
   </outline>
 </glyph>

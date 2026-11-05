@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="2">
+  <advance width="576"/>
+  <unicode hex="00C1"/>
+  <anchor x="451" y="953" name="top"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="0" name="cedilla"/>
+  <anchor x="467" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="226" y="188" type="line"/>
+      <point x="393" y="188" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="467" y="704" type="line"/>
+      <point x="340" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="366" y="482" type="line"/>
+      <point x="382" y="305" type="line"/>
+      <point x="281" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="426" y="902" type="line"/>
+      <point x="312" y="767" type="line"/>
+      <point x="430" y="767" type="line"/>
+      <point x="544" y="902" type="line"/>
+    </contour>
+  </outline>
+</glyph>

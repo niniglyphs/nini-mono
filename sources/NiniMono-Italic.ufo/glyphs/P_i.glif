@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="576"/>
+  <unicode hex="03A0"/>
+  <anchor x="367" y="755" name="top"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="220" y="0" name="cedilla"/>
+  <anchor x="397" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="476" y="626" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="140" y="704" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="207" y="626" type="line"/>
+    </contour>
+  </outline>
+</glyph>

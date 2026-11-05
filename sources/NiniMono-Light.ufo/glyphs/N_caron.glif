@@ -20,13 +20,13 @@
       <point x="114" y="704" type="line"/>
     </contour>
     <contour>
-      <point x="339" y="902" type="line"/>
       <point x="288" y="810" type="line"/>
       <point x="237" y="902" type="line"/>
       <point x="175" y="902" type="line"/>
       <point x="257" y="755" type="line"/>
       <point x="319" y="755" type="line"/>
       <point x="401" y="902" type="line"/>
+      <point x="339" y="902" type="line"/>
     </contour>
   </outline>
 </glyph>

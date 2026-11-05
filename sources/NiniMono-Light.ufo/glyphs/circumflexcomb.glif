@@ -2,17 +2,17 @@
 <glyph name="circumflexcomb" format="2">
   <advance width="0"/>
   <unicode hex="0302"/>
-  <anchor x="-280" y="582" name="_top"/>
+  <anchor x="-280" y="583" name="_top"/>
   <anchor x="-280" y="781" name="top"/>
   <outline>
     <contour>
+      <point x="-314" y="730" type="line"/>
       <point x="-395" y="582" type="line"/>
       <point x="-327" y="582" type="line"/>
       <point x="-280" y="668" type="line"/>
       <point x="-233" y="582" type="line"/>
       <point x="-165" y="582" type="line"/>
       <point x="-246" y="730" type="line"/>
-      <point x="-314" y="730" type="line"/>
     </contour>
   </outline>
 </glyph>

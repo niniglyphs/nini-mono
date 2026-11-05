@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="576"/>
+  <unicode hex="013D"/>
+  <anchor x="408" y="755" name="top"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="261" y="0" name="cedilla"/>
+  <anchor x="482" y="0" name="ogonek"/>
+  <outline>
+    <component base="Lcaron.base"/>
+    <component base="Lcaron.tick"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex_gravecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-280" y="756" name="_top"/>
+  <anchor x="-280" y="1009" name="top"/>
+  <outline>
+    <contour>
+      <point x="-389" y="749" type="line"/>
+      <point x="-369" y="749" type="line"/>
+      <point x="-280" y="872" type="line"/>
+      <point x="-191" y="749" type="line"/>
+      <point x="-171" y="749" type="line"/>
+      <point x="-270" y="886" type="line"/>
+      <point x="-290" y="886" type="line"/>
+    </contour>
+    <contour>
+      <point x="-427" y="958" type="line"/>
+      <point x="-371" y="856" type="line"/>
+      <point x="-348" y="856" type="line"/>
+      <point x="-404" y="958" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,52 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+@CombTop = [gravecomb acutecomb circumflexcomb tildecomb macroncomb brevecomb dotaccentcomb dieresiscomb ringcomb hungarumlautcomb caroncomb hookabovecomb psilicomb dasiacomb perispomenicomb circumflex_acutecomb circumflex_gravecomb circumflex_hookabovecomb circumflex_tildecomb breve_acutecomb breve_gravecomb breve_hookabovecomb breve_tildecomb psili_acutecomb psili_gravecomb psili_perispomenicomb dasia_acutecomb dasia_gravecomb dasia_perispomenicomb dieresis_gravecomb dieresis_perispomenicomb];
+@CombTopCase = [gravecomb.case acutecomb.case circumflexcomb.case tildecomb.case macroncomb.case brevecomb.case dotaccentcomb.case dieresiscomb.case ringcomb.case hungarumlautcomb.case caroncomb.case hookabovecomb.case psilicomb.case dasiacomb.case perispomenicomb.case circumflex_acutecomb.case circumflex_gravecomb.case circumflex_hookabovecomb.case circumflex_tildecomb.case breve_acutecomb.case breve_gravecomb.case breve_hookabovecomb.case breve_tildecomb.case psili_acutecomb.case psili_gravecomb.case psili_perispomenicomb.case dasia_acutecomb.case dasia_gravecomb.case dasia_perispomenicomb.case dieresis_gravecomb.case dieresis_perispomenicomb.case];
+@Upper = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis Yacute Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Emacron Ebreve Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent uni0122 Hcircumflex Itilde Imacron Ibreve Iogonek Idotaccent Jcircumflex uni0136 Lacute uni013B Lcaron Nacute uni0145 Ncaron Omacron Obreve Ohungarumlaut Racute uni0156 Rcaron Sacute Scircumflex Scedilla Scaron uni0162 Tcaron Utilde Umacron Ubreve Uring Uhungarumlaut Uogonek Wcircumflex Ycircumflex Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Tcommaaccent Wgrave Wacute Wdieresis Ygrave uni01CD Gcaron uni01E8 uni021E uni01D3 uni1EBC Oslashacute uni01EE Ohorn Uhorn uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni1EB8 uni1EBA uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2 uni1EE4 uni1EE6 uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0 uni1EF4 uni1EF6 uni1EF8 AE OE Oslash Dcroat Eth Hbar Tbar Lslash Ldot Germandbls Thorn Eng IJ uni01B7 uni01E4 uni0400 uni0401 uni0402 uni0403 uni0404 uni0405 uni0406 uni0407 uni0408 uni0409 uni040A uni040B uni040C uni040D uni040E uni040F uni0410 uni0411 uni0412 uni0413 uni0414 uni0415 uni0416 uni0417 uni0418 uni0419 uni041A uni041B uni041C uni041D uni041E uni041F uni0420 uni0421 uni0422 uni0423 uni0424 uni0425 uni0426 uni0427 uni0428 uni0429 uni042A uni042B uni042C uni042D uni042E uni042F uni0462 uni046A uni0490 uni0492 uni0496 uni049A uni04A2 uni04AE uni04B0 uni04B2 uni04B6 uni04BA uni04C0 uni04D8 uni04E2 uni04E8 uni04EE Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Iotadieresis Upsilondieresis uni03CF uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F59 uni1F5B uni1F5D uni1F5F uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FD8 uni1FD9 uni1FDA uni1FDB uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FEC uni1FF8 uni1FF9 uni1FFA uni1FFB];
+
+@CombBelow = [commaaccentcomb cedillacomb ogonekcomb macronbelowcomb horncomb dotbelowcomb ypogegrammenicomb];
+
+# The soft-dotted letters, Latin and Cyrillic, lose their dots under a mark above (marks below may come between); capitals take
+# the flatter capital marks.
+# A circumflex or breve and a second mark are one mark.
+lookup ccmp_stack {
+  sub circumflexcomb acutecomb by circumflex_acutecomb;
+  sub circumflexcomb gravecomb by circumflex_gravecomb;
+  sub circumflexcomb hookabovecomb by circumflex_hookabovecomb;
+  sub circumflexcomb tildecomb by circumflex_tildecomb;
+  sub brevecomb acutecomb by breve_acutecomb;
+  sub brevecomb gravecomb by breve_gravecomb;
+  sub brevecomb hookabovecomb by breve_hookabovecomb;
+  sub brevecomb tildecomb by breve_tildecomb;
+  sub psilicomb acutecomb by psili_acutecomb;
+  sub psilicomb gravecomb by psili_gravecomb;
+  sub psilicomb perispomenicomb by psili_perispomenicomb;
+  sub dasiacomb acutecomb by dasia_acutecomb;
+  sub dasiacomb gravecomb by dasia_gravecomb;
+  sub dasiacomb perispomenicomb by dasia_perispomenicomb;
+  sub dieresiscomb gravecomb by dieresis_gravecomb;
+  sub dieresiscomb perispomenicomb by dieresis_perispomenicomb;
+} ccmp_stack;
+lookup ccmp_dotless {
+  sub [i uni0456]' @CombTop by dotlessi;
+  sub [i uni0456]' @CombBelow @CombTop by dotlessi;
+  sub [j uni0458]' @CombTop by jdotless;
+  sub [j uni0458]' @CombBelow @CombTop by jdotless;
+  sub iogonek' @CombTop by iogonek.dotless;
+  sub uni1ECB' @CombTop by uni1ECB.dotless;
+  sub uni1ECB' @CombBelow @CombTop by uni1ECB.dotless;
+  sub iogonek' @CombBelow @CombTop by iogonek.dotless;
+} ccmp_dotless;
+lookup ccmp_case {
+  sub @Upper @CombTop' by @CombTopCase;
+  sub @Upper @CombBelow @CombTop' by @CombTopCase;
+  sub @Upper @CombTopCase @CombTop' by @CombTopCase;
+} ccmp_case;
+feature ccmp {
+  lookup ccmp_stack;
+  lookup ccmp_dotless;
+  lookup ccmp_case;
+} ccmp;

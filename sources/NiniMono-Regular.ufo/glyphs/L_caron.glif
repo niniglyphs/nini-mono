@@ -7,19 +7,7 @@
   <anchor x="326" y="0" name="cedilla"/>
   <anchor x="502" y="0" name="ogonek"/>
   <outline>
-    <contour>
-      <point x="110" y="704" type="line"/>
-      <point x="110" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
-      <point x="542" y="78" type="line"/>
-      <point x="190" y="78" type="line"/>
-      <point x="190" y="704" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="602" type="line"/>
-      <point x="312" y="602" type="line"/>
-      <point x="347" y="768" type="line"/>
-      <point x="266" y="768" type="line"/>
-    </contour>
+    <component base="Lcaron.base"/>
+    <component base="Lcaron.tick"/>
   </outline>
 </glyph>

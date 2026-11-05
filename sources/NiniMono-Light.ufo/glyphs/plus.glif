@@ -4,18 +4,18 @@
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="318" y="243" type="line"/>
-      <point x="519" y="243" type="line"/>
-      <point x="519" y="301" type="line"/>
-      <point x="318" y="301" type="line"/>
-      <point x="318" y="511" type="line"/>
-      <point x="258" y="511" type="line"/>
-      <point x="258" y="301" type="line"/>
-      <point x="57" y="301" type="line"/>
-      <point x="57" y="243" type="line"/>
-      <point x="258" y="243" type="line"/>
-      <point x="258" y="33" type="line"/>
-      <point x="318" y="33" type="line"/>
+      <point x="318" y="259" type="line"/>
+      <point x="519" y="259" type="line"/>
+      <point x="519" y="317" type="line"/>
+      <point x="318" y="317" type="line"/>
+      <point x="318" y="529" type="line"/>
+      <point x="258" y="529" type="line"/>
+      <point x="258" y="317" type="line"/>
+      <point x="57" y="317" type="line"/>
+      <point x="57" y="259" type="line"/>
+      <point x="258" y="259" type="line"/>
+      <point x="258" y="47" type="line"/>
+      <point x="318" y="47" type="line"/>
     </contour>
   </outline>
 </glyph>

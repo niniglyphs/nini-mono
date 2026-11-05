@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="2">
+  <advance width="576"/>
+  <unicode hex="03A4"/>
+  <anchor x="354" y="755" name="top"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="207" y="0" name="cedilla"/>
+  <anchor x="208" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="330" y="685" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="351" y="685" type="line"/>
+      <point x="569" y="685" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="115" y="704" type="line"/>
+      <point x="112" y="685" type="line"/>
+    </contour>
+  </outline>
+</glyph>

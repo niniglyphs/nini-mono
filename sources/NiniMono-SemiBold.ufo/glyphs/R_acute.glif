@@ -8,7 +8,7 @@
   <anchor x="493" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="149" y="289" type="line"/>
+      <point x="149" y="290" type="line"/>
       <point x="366" y="290" type="line"/>
       <point x="442" y="0" type="line"/>
       <point x="545" y="0" type="line"/>

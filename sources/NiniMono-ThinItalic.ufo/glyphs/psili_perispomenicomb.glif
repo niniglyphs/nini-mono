@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psili_perispomenicomb" format="2">
+  <advance width="0"/>
+  <anchor x="-280" y="583" name="_top"/>
+  <anchor x="-280" y="844" name="top"/>
+  <outline>
+    <contour>
+      <point x="-221" y="582" type="line"/>
+      <point x="-204" y="600"/>
+      <point x="-180" y="622"/>
+      <point x="-180" y="649" type="curve" smooth="yes"/>
+      <point x="-180" y="668"/>
+      <point x="-189" y="684"/>
+      <point x="-198" y="700" type="curve"/>
+      <point x="-218" y="700" type="line"/>
+      <point x="-209" y="684"/>
+      <point x="-200" y="668"/>
+      <point x="-200" y="649" type="curve" smooth="yes"/>
+      <point x="-200" y="622"/>
+      <point x="-224" y="600"/>
+      <point x="-241" y="582" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-70" y="793" type="line"/>
+      <point x="-87" y="777"/>
+      <point x="-107" y="763"/>
+      <point x="-132" y="763" type="curve" smooth="yes"/>
+      <point x="-165" y="763"/>
+      <point x="-195" y="782"/>
+      <point x="-228" y="782" type="curve" smooth="yes"/>
+      <point x="-258" y="782"/>
+      <point x="-284" y="765"/>
+      <point x="-306" y="745" type="curve"/>
+      <point x="-293" y="732" type="line"/>
+      <point x="-276" y="748"/>
+      <point x="-256" y="762"/>
+      <point x="-231" y="762" type="curve" smooth="yes"/>
+      <point x="-198" y="762"/>
+      <point x="-169" y="744"/>
+      <point x="-135" y="744" type="curve" smooth="yes"/>
+      <point x="-105" y="744"/>
+      <point x="-79" y="760"/>
+      <point x="-57" y="780" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

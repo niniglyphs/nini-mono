@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilicomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-280" y="756" name="_top"/>
+  <anchor x="-280" y="921" name="top"/>
+  <outline>
+    <contour>
+      <point x="-220" y="813" type="curve"/>
+      <point x="-223" y="838"/>
+      <point x="-243" y="854"/>
+      <point x="-260" y="870" type="curve"/>
+      <point x="-340" y="870" type="line"/>
+      <point x="-323" y="854"/>
+      <point x="-303" y="838"/>
+      <point x="-300" y="813" type="curve"/>
+      <point x="-303" y="788"/>
+      <point x="-323" y="771"/>
+      <point x="-340" y="755" type="curve"/>
+      <point x="-260" y="755" type="line"/>
+      <point x="-243" y="771"/>
+      <point x="-223" y="788"/>
+    </contour>
+  </outline>
+</glyph>

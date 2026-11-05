@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="576"/>
+  <unicode hex="039B"/>
+  <anchor x="398" y="761" name="top"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="0" name="cedilla"/>
+  <anchor x="446" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="356" y="514" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="440" y="704" type="line"/>
+      <point x="335" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

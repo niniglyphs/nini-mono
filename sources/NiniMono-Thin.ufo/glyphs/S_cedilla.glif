@@ -8,8 +8,8 @@
   <anchor x="358" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="296" y="-32" type="curve"/>
-      <point x="296" y="-10" type="line"/>
+      <point x="295" y="-32" type="curve"/>
+      <point x="295" y="-10" type="line"/>
       <point x="420" y="-10"/>
       <point x="520" y="46"/>
       <point x="520" y="186" type="curve" smooth="yes"/>
@@ -32,9 +32,9 @@
       <point x="479" y="665"/>
       <point x="497" y="560" type="curve"/>
       <point x="517" y="560" type="line"/>
-      <point x="516" y="569" type="line"/>
-      <point x="493" y="682"/>
-      <point x="388" y="714"/>
+      <point x="517" y="564" type="line"/>
+      <point x="496" y="680"/>
+      <point x="390" y="714"/>
       <point x="287" y="714" type="curve" smooth="yes"/>
       <point x="161" y="714"/>
       <point x="56" y="662"/>

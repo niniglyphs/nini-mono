@@ -5,7 +5,13 @@ sources:
   - NiniMono-Regular.ufo
   - NiniMono-SemiBold.ufo
   - NiniMono-Bold.ufo
+  - NiniMono-ThinItalic.ufo
+  - NiniMono-LightItalic.ufo
+  - NiniMono-Italic.ufo
+  - NiniMono-SemiBoldItalic.ufo
+  - NiniMono-BoldItalic.ufo
 familyName: Nini Mono
 buildVariable: false
 buildOTF: false
-autohintTTF: true
+autohintTTF: false
+buildWebfont: false

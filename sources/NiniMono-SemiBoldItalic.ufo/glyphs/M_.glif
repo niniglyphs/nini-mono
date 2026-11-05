@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="576"/>
+  <unicode hex="004D"/>
+  <anchor x="367" y="757" name="top"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="220" y="0" name="cedilla"/>
+  <anchor x="393" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="191" y="506" type="line"/>
+      <point x="265" y="217" type="line"/>
+      <point x="442" y="491" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="477" y="704" type="line"/>
+      <point x="300" y="431" type="line"/>
+      <point x="230" y="704" type="line"/>
+      <point x="140" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,23 +2,27 @@
 <glyph name="longs" format="2">
   <advance width="576"/>
   <unicode hex="017F"/>
-  <anchor x="235" y="594" name="top"/>
-  <anchor x="235" y="0" name="bottom"/>
-  <anchor x="235" y="0" name="cedilla"/>
-  <anchor x="235" y="0" name="ogonek"/>
+  <anchor x="250" y="594" name="top"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="0" name="cedilla"/>
+  <anchor x="395" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="295" y="0" type="line"/>
-      <point x="295" y="511" type="line"/>
-      <point x="295" y="612"/>
-      <point x="338" y="661"/>
-      <point x="441" y="661" type="curve"/>
-      <point x="441" y="778" type="line"/>
-      <point x="436" y="778" type="line"/>
-      <point x="270" y="778"/>
-      <point x="175" y="676"/>
-      <point x="175" y="511" type="curve"/>
-      <point x="175" y="0" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="455" y="116" type="line"/>
+      <point x="310" y="116" type="line"/>
+      <point x="310" y="498" type="line"/>
+      <point x="310" y="607"/>
+      <point x="358" y="661"/>
+      <point x="469" y="661" type="curve"/>
+      <point x="469" y="778" type="line"/>
+      <point x="465" y="778" type="line"/>
+      <point x="290" y="778"/>
+      <point x="190" y="671"/>
+      <point x="190" y="498" type="curve"/>
+      <point x="190" y="116" type="line"/>
+      <point x="46" y="116" type="line"/>
     </contour>
   </outline>
 </glyph>

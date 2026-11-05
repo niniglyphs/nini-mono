@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve_hookabovecomb.case" format="2">
+  <advance width="0"/>
+  <anchor x="-280" y="768" name="_top"/>
+  <anchor x="-280" y="1107" name="top"/>
+  <outline>
+    <contour>
+      <point x="-335" y="885" type="line"/>
+      <point x="-336" y="881"/>
+      <point x="-337" y="876"/>
+      <point x="-337" y="872" type="curve" smooth="yes"/>
+      <point x="-337" y="809"/>
+      <point x="-281" y="775"/>
+      <point x="-225" y="765" type="curve"/>
+      <point x="-211" y="762"/>
+      <point x="-197" y="761"/>
+      <point x="-182" y="761" type="curve" smooth="yes"/>
+      <point x="-98" y="761"/>
+      <point x="-2" y="801"/>
+      <point x="20" y="885" type="curve"/>
+      <point x="-50" y="885" type="line"/>
+      <point x="-52" y="877" type="line"/>
+      <point x="-58" y="867"/>
+      <point x="-66" y="859"/>
+      <point x="-76" y="853" type="curve"/>
+      <point x="-97" y="839"/>
+      <point x="-136" y="829"/>
+      <point x="-173" y="829" type="curve" smooth="yes"/>
+      <point x="-213" y="829"/>
+      <point x="-251" y="840"/>
+      <point x="-265" y="870" type="curve"/>
+      <point x="-266" y="877" type="line"/>
+      <point x="-266" y="885" type="line"/>
+    </contour>
+    <contour>
+      <point x="-115" y="912" type="line"/>
+      <point x="-106" y="915"/>
+      <point x="-97" y="918"/>
+      <point x="-89" y="923" type="curve"/>
+      <point x="-66" y="936"/>
+      <point x="-44" y="963"/>
+      <point x="-44" y="990" type="curve" smooth="yes"/>
+      <point x="-44" y="1037"/>
+      <point x="-83" y="1056"/>
+      <point x="-124" y="1056" type="curve" smooth="yes"/>
+      <point x="-173" y="1056"/>
+      <point x="-221" y="1031"/>
+      <point x="-233" y="981" type="curve"/>
+      <point x="-189" y="981" type="line"/>
+      <point x="-183" y="1005"/>
+      <point x="-155" y="1013"/>
+      <point x="-133" y="1013" type="curve" smooth="yes"/>
+      <point x="-115" y="1013"/>
+      <point x="-86" y="1006"/>
+      <point x="-89" y="983" type="curve" smooth="yes"/>
+      <point x="-90" y="976"/>
+      <point x="-93" y="970"/>
+      <point x="-97" y="966" type="curve" smooth="yes"/>
+      <point x="-113" y="950"/>
+      <point x="-140" y="949"/>
+      <point x="-157" y="935" type="curve"/>
+      <point x="-165" y="928"/>
+      <point x="-172" y="920"/>
+      <point x="-178" y="912" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

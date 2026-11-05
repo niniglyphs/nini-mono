@@ -2,8 +2,8 @@
 <glyph name="t" format="2">
   <advance width="576"/>
   <unicode hex="0074"/>
-  <anchor x="253" y="806" name="top"/>
-  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="341" y="806" name="top"/>
+  <anchor x="341" y="0" name="bottom"/>
   <anchor x="341" y="0" name="cedilla"/>
   <anchor x="370" y="0" name="ogonek"/>
   <outline>
@@ -23,16 +23,16 @@
       <point x="272" y="10"/>
       <point x="263" y="94"/>
       <point x="263" y="147" type="curve"/>
-      <point x="263" y="493" type="line"/>
-      <point x="457" y="493" type="line"/>
-      <point x="457" y="512" type="line"/>
-      <point x="263" y="512" type="line"/>
-      <point x="263" y="632" type="line"/>
-      <point x="243" y="632" type="line"/>
-      <point x="243" y="512" type="line"/>
-      <point x="48" y="512" type="line"/>
-      <point x="48" y="493" type="line"/>
-      <point x="243" y="493" type="line"/>
+      <point x="263" y="525" type="line"/>
+      <point x="457" y="525" type="line"/>
+      <point x="457" y="544" type="line"/>
+      <point x="263" y="544" type="line"/>
+      <point x="263" y="712" type="line"/>
+      <point x="243" y="712" type="line"/>
+      <point x="243" y="544" type="line"/>
+      <point x="48" y="544" type="line"/>
+      <point x="48" y="525" type="line"/>
+      <point x="243" y="525" type="line"/>
     </contour>
   </outline>
 </glyph>

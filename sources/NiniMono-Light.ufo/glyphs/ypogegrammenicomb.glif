@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ypogegrammenicomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0345"/>
+  <anchor x="-280" y="-1" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-310" y="-173" type="line"/>
+      <point x="-250" y="-173" type="line"/>
+      <point x="-250" y="-48" type="line"/>
+      <point x="-310" y="-48" type="line"/>
+    </contour>
+  </outline>
+</glyph>

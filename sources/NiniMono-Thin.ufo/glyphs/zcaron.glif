@@ -2,31 +2,31 @@
 <glyph name="zcaron" format="2">
   <advance width="576"/>
   <unicode hex="017E"/>
-  <anchor x="288" y="781" name="top"/>
+  <anchor x="288" y="813" name="top"/>
   <anchor x="288" y="0" name="bottom"/>
   <anchor x="288" y="0" name="cedilla"/>
-  <anchor x="482" y="0" name="ogonek"/>
+  <anchor x="491" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="494" y="512" type="line"/>
-      <point x="82" y="512" type="line"/>
-      <point x="82" y="493" type="line"/>
-      <point x="473" y="493" type="line"/>
-      <point x="82" y="25" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="494" y="0" type="line"/>
-      <point x="494" y="19" type="line"/>
-      <point x="103" y="19" type="line"/>
-      <point x="494" y="487" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="19" type="line"/>
+      <point x="94" y="19" type="line"/>
+      <point x="503" y="519" type="line"/>
+      <point x="503" y="544" type="line"/>
+      <point x="73" y="544" type="line"/>
+      <point x="73" y="525" type="line"/>
+      <point x="482" y="525" type="line"/>
+      <point x="73" y="25" type="line"/>
+      <point x="73" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="362" y="730" type="line"/>
-      <point x="288" y="602" type="line"/>
-      <point x="214" y="730" type="line"/>
-      <point x="191" y="730" type="line"/>
-      <point x="277" y="582" type="line"/>
-      <point x="299" y="582" type="line"/>
-      <point x="385" y="730" type="line"/>
+      <point x="288" y="633" type="line"/>
+      <point x="209" y="762" type="line"/>
+      <point x="186" y="762" type="line"/>
+      <point x="276" y="614" type="line"/>
+      <point x="300" y="614" type="line"/>
+      <point x="390" y="762" type="line"/>
+      <point x="367" y="762" type="line"/>
     </contour>
   </outline>
 </glyph>

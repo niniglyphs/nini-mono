@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.base" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="328" y="768" type="line"/>
+      <point x="84" y="768" type="line"/>
+      <point x="84" y="690" type="line"/>
+      <point x="248" y="690" type="line"/>
+      <point x="248" y="78" type="line"/>
+      <point x="84" y="78" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="492" y="78" type="line"/>
+      <point x="328" y="78" type="line"/>
+    </contour>
+  </outline>
+</glyph>

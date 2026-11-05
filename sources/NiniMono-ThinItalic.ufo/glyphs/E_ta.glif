@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="2">
+  <advance width="576"/>
+  <unicode hex="0397"/>
+  <anchor x="367" y="755" name="top"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="220" y="0" name="cedilla"/>
+  <anchor x="427" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="140" y="704" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="94" y="358" type="line"/>
+      <point x="485" y="358" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="552" y="704" type="line"/>
+      <point x="489" y="378" type="line"/>
+      <point x="97" y="378" type="line"/>
+      <point x="161" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

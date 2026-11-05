@@ -2,13 +2,13 @@
 <glyph name="jcircumflex" format="2">
   <advance width="576"/>
   <unicode hex="0135"/>
-  <anchor x="303" y="781" name="top"/>
-  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="287" y="813" name="top"/>
+  <anchor x="287" y="0" name="bottom"/>
   <anchor x="374" y="0" name="cedilla"/>
   <anchor x="374" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="344" y="454" type="line"/>
+      <point x="344" y="486" type="line"/>
       <point x="344" y="-53" type="line"/>
       <point x="344" y="-93"/>
       <point x="337" y="-143"/>
@@ -24,18 +24,18 @@
       <point x="374" y="-202"/>
       <point x="404" y="-128"/>
       <point x="404" y="-53" type="curve"/>
-      <point x="404" y="512" type="line"/>
-      <point x="202" y="512" type="line"/>
-      <point x="202" y="454" type="line"/>
+      <point x="404" y="544" type="line"/>
+      <point x="170" y="544" type="line"/>
+      <point x="170" y="486" type="line"/>
     </contour>
     <contour>
-      <point x="269" y="730" type="line"/>
-      <point x="187" y="582" type="line"/>
-      <point x="255" y="582" type="line"/>
-      <point x="303" y="668" type="line"/>
-      <point x="351" y="582" type="line"/>
-      <point x="419" y="582" type="line"/>
-      <point x="337" y="730" type="line"/>
+      <point x="253" y="762" type="line"/>
+      <point x="165" y="614" type="line"/>
+      <point x="234" y="614" type="line"/>
+      <point x="287" y="703" type="line"/>
+      <point x="340" y="614" type="line"/>
+      <point x="409" y="614" type="line"/>
+      <point x="322" y="762" type="line"/>
     </contour>
   </outline>
 </glyph>

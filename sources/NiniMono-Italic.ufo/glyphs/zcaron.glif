@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="2">
+  <advance width="576"/>
+  <unicode hex="017E"/>
+  <anchor x="396" y="813" name="top"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="238" y="0" name="cedilla"/>
+  <anchor x="406" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="122" y="466" type="line"/>
+      <point x="444" y="466" type="line"/>
+      <point x="51" y="104" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="460" y="78" type="line"/>
+      <point x="139" y="78" type="line"/>
+      <point x="531" y="440" type="line"/>
+      <point x="551" y="544" type="line"/>
+      <point x="137" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="693" type="line"/>
+      <point x="346" y="762" type="line"/>
+      <point x="254" y="762" type="line"/>
+      <point x="312" y="614" type="line"/>
+      <point x="404" y="614" type="line"/>
+      <point x="519" y="762" type="line"/>
+      <point x="427" y="762" type="line"/>
+    </contour>
+  </outline>
+</glyph>

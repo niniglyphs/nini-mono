@@ -2,7 +2,7 @@
 <glyph name="Gbreve" format="2">
   <advance width="576"/>
   <unicode hex="011E"/>
-  <anchor x="287" y="960" name="top"/>
+  <anchor x="287" y="967" name="top"/>
   <anchor x="287" y="0" name="bottom"/>
   <anchor x="297" y="0" name="cedilla"/>
   <anchor x="334" y="0" name="ogonek"/>
@@ -49,20 +49,20 @@
       <point x="510" y="66"/>
     </contour>
     <contour>
-      <point x="452" y="909" type="curve"/>
-      <point x="352" y="909" type="line"/>
-      <point x="350" y="879"/>
-      <point x="320" y="864"/>
-      <point x="289" y="864" type="curve" smooth="yes"/>
-      <point x="258" y="864"/>
-      <point x="227" y="879"/>
-      <point x="225" y="909" type="curve"/>
-      <point x="125" y="909" type="line"/>
-      <point x="129" y="815"/>
+      <point x="452" y="916" type="curve"/>
+      <point x="352" y="916" type="line"/>
+      <point x="352" y="882"/>
+      <point x="320" y="865"/>
+      <point x="289" y="865" type="curve" smooth="yes"/>
+      <point x="258" y="865"/>
+      <point x="227" y="882"/>
+      <point x="225" y="916" type="curve"/>
+      <point x="125" y="916" type="line"/>
+      <point x="129" y="817"/>
       <point x="209" y="768"/>
       <point x="289" y="768" type="curve" smooth="yes"/>
       <point x="368" y="768"/>
-      <point x="448" y="815"/>
+      <point x="448" y="817"/>
     </contour>
   </outline>
 </glyph>

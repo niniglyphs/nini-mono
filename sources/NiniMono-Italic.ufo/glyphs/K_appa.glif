@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kappa" format="2">
+  <advance width="576"/>
+  <unicode hex="039A"/>
+  <anchor x="367" y="755" name="top"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="216" y="0" name="cedilla"/>
+  <anchor x="382" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="132" y="235" type="line"/>
+      <point x="220" y="329" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="280" y="393" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="464" y="704" type="line"/>
+      <point x="160" y="380" type="line"/>
+      <point x="223" y="704" type="line"/>
+      <point x="141" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

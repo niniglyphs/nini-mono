@@ -19,13 +19,13 @@
       <point x="348" y="283" type="line"/>
     </contour>
     <contour>
-      <point x="105" y="767" type="line"/>
-      <point x="248" y="767" type="line"/>
-      <point x="288" y="827" type="line"/>
-      <point x="328" y="767" type="line"/>
-      <point x="471" y="767" type="line"/>
-      <point x="359" y="934" type="line"/>
-      <point x="217" y="934" type="line"/>
+      <point x="233" y="934" type="line"/>
+      <point x="111" y="767" type="line"/>
+      <point x="221" y="767" type="line"/>
+      <point x="288" y="859" type="line"/>
+      <point x="355" y="767" type="line"/>
+      <point x="465" y="767" type="line"/>
+      <point x="343" y="934" type="line"/>
     </contour>
   </outline>
 </glyph>

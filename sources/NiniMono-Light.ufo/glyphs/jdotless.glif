@@ -2,8 +2,8 @@
 <glyph name="jdotless" format="2">
   <advance width="576"/>
   <unicode hex="0237"/>
-  <anchor x="303" y="582" name="top"/>
-  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="287" y="582" name="top"/>
+  <anchor x="287" y="0" name="bottom"/>
   <anchor x="374" y="0" name="cedilla"/>
   <anchor x="374" y="0" name="ogonek"/>
   <outline>
@@ -23,10 +23,10 @@
       <point x="374" y="-202"/>
       <point x="404" y="-128"/>
       <point x="404" y="-53" type="curve"/>
-      <point x="404" y="512" type="line"/>
-      <point x="202" y="512" type="line"/>
-      <point x="202" y="454" type="line"/>
-      <point x="344" y="454" type="line"/>
+      <point x="404" y="544" type="line"/>
+      <point x="170" y="544" type="line"/>
+      <point x="170" y="486" type="line"/>
+      <point x="344" y="486" type="line"/>
     </contour>
   </outline>
 </glyph>

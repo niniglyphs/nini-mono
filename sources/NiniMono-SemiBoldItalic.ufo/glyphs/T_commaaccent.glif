@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="2">
+  <advance width="576"/>
+  <unicode hex="021A"/>
+  <anchor x="343" y="761" name="top"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="195" y="0" name="cedilla"/>
+  <anchor x="197" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="224" y="-48" type="curve"/>
+      <point x="148" y="-48" type="line"/>
+      <point x="138" y="-97"/>
+      <point x="129" y="-147"/>
+      <point x="101" y="-190" type="curve"/>
+      <point x="139" y="-190" type="line"/>
+      <point x="178" y="-134"/>
+      <point x="209" y="-122"/>
+    </contour>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="364" y="607" type="line"/>
+      <point x="554" y="607" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="91" y="704" type="line"/>
+      <point x="73" y="607" type="line"/>
+      <point x="262" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -8,7 +8,6 @@
   <anchor x="303" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="374" y="704" type="line"/>
       <point x="374" y="233" type="line"/>
       <point x="374" y="157"/>
       <point x="351" y="107"/>
@@ -25,6 +24,9 @@
       <point x="494" y="90"/>
       <point x="494" y="233" type="curve"/>
       <point x="494" y="704" type="line"/>
+      <point x="189" y="704" type="line"/>
+      <point x="189" y="588" type="line"/>
+      <point x="374" y="588" type="line"/>
     </contour>
   </outline>
 </glyph>

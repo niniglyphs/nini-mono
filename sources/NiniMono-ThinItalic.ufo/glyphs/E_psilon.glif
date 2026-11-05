@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+  <advance width="576"/>
+  <unicode hex="0395"/>
+  <anchor x="367" y="755" name="top"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="221" y="0" name="cedilla"/>
+  <anchor x="427" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="436" y="0" type="line"/>
+      <point x="440" y="19" type="line"/>
+      <point x="29" y="19" type="line"/>
+      <point x="95" y="358" type="line"/>
+      <point x="493" y="358" type="line"/>
+      <point x="497" y="378" type="line"/>
+      <point x="99" y="378" type="line"/>
+      <point x="159" y="685" type="line"/>
+      <point x="569" y="685" type="line"/>
+      <point x="573" y="704" type="line"/>
+      <point x="142" y="704" type="line"/>
+      <point x="5" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
